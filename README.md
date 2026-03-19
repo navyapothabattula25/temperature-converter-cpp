@@ -21,4 +21,4 @@ This is a C++ project that converts temperature between:
    ./temp
 
 ##  Author
-Navya Pothabattula
+Navya Pothabathula
